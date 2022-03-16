@@ -1,1 +1,1 @@
-# k-means
+# K-means, Spectral Embedding, Eigenvalue computation
